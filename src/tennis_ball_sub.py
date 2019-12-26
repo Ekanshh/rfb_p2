@@ -81,4 +81,4 @@ if __name__ == "__main__":
     try:
         main()
     except rospy.ROSInterruptException():
-        rospy.loginfo("master  node was terminaated")
+        rospy.loginfo("master  node was terminated")
