@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project is a part of exercises of the Udemy Course: [ROS For Beginners: Basics, Motion and OpenCV](https://www.udemy.com/course/ros-essentials/) by Anis Koubaa
 
 
